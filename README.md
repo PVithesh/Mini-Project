@@ -1,8 +1,8 @@
-\# Asthma and Pneumonia Disease Classification from Cough Sound Data with Locally Cascaded Ensemble Learning
+# Asthma and Pneumonia Disease Classification from Cough Sound Data with Locally Cascaded Ensemble Learning
 
 
 
-\## 📌 Overview
+## 📌 Overview
 
 This project applies \*\*machine learning\*\* to classify asthma and pneumonia from \*\*cough sound data\*\*.  
 
@@ -14,7 +14,7 @@ Using a \*\*Locally Cascaded Ensemble Learning\*\* approach, the system improves
 
 
 
-\## ✨ Features
+## ✨ Features
 
 \- Preprocessing and feature extraction from cough audio data  
 
@@ -30,7 +30,7 @@ Using a \*\*Locally Cascaded Ensemble Learning\*\* approach, the system improves
 
 
 
-\## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 \- Python, Jupyter Notebook  
 
@@ -46,7 +46,7 @@ Using a \*\*Locally Cascaded Ensemble Learning\*\* approach, the system improves
 
 
 
-\## 🚀 Usage
+## 🚀 Usage
 
 1\. Clone the repo  
 
